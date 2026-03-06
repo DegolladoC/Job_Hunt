@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "total_postulaciones": 24,
+    "periodo": "13/02/2026 - 27/02/2026",
+    "generado_en": "2026-02-27T10:00:00.000Z"
+  },
+  "resumen": {
+    "total_postulaciones": 24,
+    "total_respuestas": 7,
+    "tasa_respuesta": "29.2%",
+    "entrevistas_conseguidas": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "fecha_postulacion": "2026-02-18", "salario": 18000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "fecha_postulacion": "2026-02-20", "salario": 22000, "modalidad": "Hibrido", "cv": "CV_v2", "estado": "Entrevistado" }
+    ],
+    "puesto_mayor_respuesta": ["Desarrollador Backend Jr"],
+    "cv_mayor_respuesta": ["CV_v3"]
+  },
+  "seguimientos": {
+    "empresas_contactaron": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "nivel_contacto": "Entrevista", "cv_enviado": "CV_v3", "fecha_postulacion": "2026-02-18" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "nivel_contacto": "Llamada", "cv_enviado": "CV_v2", "fecha_postulacion": "2026-02-20" },
+      { "empresa": "InnovateMX", "puesto": "Dev Frontend", "nivel_contacto": "Segundo Contacto", "cv_enviado": "CV_v3", "fecha_postulacion": "2026-02-15" }
+    ]
+  },
+  "postulaciones": {
+    "estados": { "Postulado": 15, "Retirado": 7, "Entrevistado": 2 },
+    "entrevistados": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "salario": 18000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "salario": 22000, "modalidad": "Hibrido", "cv": "CV_v2", "estado": "Entrevistado" }
+    ],
+    "por_dia": {
+      "lunes": 6, "martes": 8, "miércoles": 3, "jueves": 4, "viernes": 2, "sábado": 1, "domingo": 0
+    }
+  },
+  "eficiencias": {
+    "por_plataforma": [
+      { "aplicacion": "Indeed", "postulaciones": 10, "respuestas": 4, "eficiencia": "40.0%" },
+      { "aplicacion": "OCC Mundial", "postulaciones": 8, "respuestas": 2, "eficiencia": "25.0%" },
+      { "aplicacion": "CompuTrabajo", "postulaciones": 4, "respuestas": 1, "eficiencia": "25.0%" },
+      { "aplicacion": "Glassdoor", "postulaciones": 2, "respuestas": 0, "eficiencia": "0.0%" }
+    ],
+    "por_cv": [
+      { "cv": "CV_v3", "postulaciones": 14, "respuestas": 5, "eficiencia": "35.7%" },
+      { "cv": "CV_v2", "postulaciones": 7, "respuestas": 2, "eficiencia": "28.6%" },
+      { "cv": "CV_v1", "postulaciones": 3, "respuestas": 0, "eficiencia": "0.0%" }
+    ],
+    "por_puesto": [
+      { "categoria": "Desarrollador", "postulaciones": 12, "respuestas": 5, "eficiencia": "41.7%" },
+      { "categoria": "Analista de Datos", "postulaciones": 6, "respuestas": 2, "eficiencia": "33.3%" },
+      { "categoria": "IA", "postulaciones": 4, "respuestas": 0, "eficiencia": "0.0%" },
+      { "categoria": "Manager", "postulaciones": 2, "respuestas": 0, "eficiencia": "0.0%" }
+    ],
+    "por_salario": [
+      { "rango": "< $10,000", "postulaciones": 3, "respuestas": 0, "eficiencia": "0.0%" },
+      { "rango": "$10,000 - $15,000", "postulaciones": 8, "respuestas": 2, "eficiencia": "25.0%" },
+      { "rango": "$15,000 - $20,000", "postulaciones": 9, "respuestas": 4, "eficiencia": "44.4%" },
+      { "rango": "$20,000+", "postulaciones": 4, "respuestas": 1, "eficiencia": "25.0%" }
+    ]
+  },
+  "analisis": {
+    "salario_por_puesto": [
+      { "categoria": "Desarrollador", "promedio": 17500, "maximo": 22000, "minimo": 12000 },
+      { "categoria": "Analista de Datos", "promedio": 20000, "maximo": 25000, "minimo": 15000 },
+      { "categoria": "IA", "promedio": 19000, "maximo": 24000, "minimo": 14000 },
+      { "categoria": "Manager", "promedio": 28000, "maximo": 35000, "minimo": 20000 }
+    ],
+    "salario_por_cv": [
+      { "cv": "CV_v3", "promedio": 18200, "maximo": 25000, "minimo": 12000 },
+      { "cv": "CV_v2", "promedio": 19500, "maximo": 28000, "minimo": 14000 },
+      { "cv": "CV_v1", "promedio": 15000, "maximo": 18000, "minimo": 12000 }
+    ],
+    "empresas_repetidas": [],
+    "modalidades": { "Presencial": 5, "Hibrido": 8, "Remoto": 11 }
+  }
+}

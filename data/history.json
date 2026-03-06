@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "total_postulaciones": 312,
+    "periodo": "01/09/2025 - 27/02/2026",
+    "generado_en": "2026-02-27T10:00:00.000Z"
+  },
+  "resumen": {
+    "total_postulaciones": 312,
+    "total_respuestas": 89,
+    "tasa_respuesta": "28.5%",
+    "entrevistas_conseguidas": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "fecha_postulacion": "2026-02-18", "salario": 18000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "fecha_postulacion": "2026-01-20", "salario": 22000, "modalidad": "Hibrido", "cv": "CV_v2", "estado": "Entrevistado" },
+      { "empresa": "NeuralMX", "puesto": "IA Engineer Jr", "fecha_postulacion": "2025-12-10", "salario": 20000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "BioTech SA", "puesto": "Ing. Bionico Jr", "fecha_postulacion": "2025-11-05", "salario": 16000, "modalidad": "Presencial", "cv": "CV_v1", "estado": "Entrevistado" }
+    ],
+    "puesto_mayor_respuesta": ["Desarrollador Backend Jr"],
+    "cv_mayor_respuesta": ["CV_v3"]
+  },
+  "seguimientos": {
+    "empresas_contactaron": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "nivel_contacto": "Entrevista", "cv_enviado": "CV_v3", "fecha_postulacion": "2026-02-18" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "nivel_contacto": "Llamada", "cv_enviado": "CV_v2", "fecha_postulacion": "2026-01-20" },
+      { "empresa": "NeuralMX", "puesto": "IA Engineer Jr", "nivel_contacto": "Segundo Contacto", "cv_enviado": "CV_v3", "fecha_postulacion": "2025-12-10" },
+      { "empresa": "BioTech SA", "puesto": "Ing. Bionico Jr", "nivel_contacto": "Entrevista", "cv_enviado": "CV_v1", "fecha_postulacion": "2025-11-05" },
+      { "empresa": "Softtek", "puesto": "Dev Jr", "nivel_contacto": "Primer Contacto", "cv_enviado": "CV_v2", "fecha_postulacion": "2025-10-12" }
+    ]
+  },
+  "postulaciones": {
+    "estados": { "Postulado": 180, "Retirado": 128, "Entrevistado": 4 },
+    "entrevistados": [
+      { "empresa": "TechCorp MX", "puesto": "Desarrollador Backend Jr", "salario": 18000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "DataSolutions", "puesto": "Analista de Datos Sr", "salario": 22000, "modalidad": "Hibrido", "cv": "CV_v2", "estado": "Entrevistado" },
+      { "empresa": "NeuralMX", "puesto": "IA Engineer Jr", "salario": 20000, "modalidad": "Remoto", "cv": "CV_v3", "estado": "Entrevistado" },
+      { "empresa": "BioTech SA", "puesto": "Ing. Bionico Jr", "salario": 16000, "modalidad": "Presencial", "cv": "CV_v1", "estado": "Entrevistado" }
+    ],
+    "por_dia": {
+      "lunes": 72, "martes": 80, "miércoles": 61, "jueves": 55, "viernes": 32, "sábado": 9, "domingo": 3
+    }
+  },
+  "eficiencias": {
+    "por_plataforma": [
+      { "aplicacion": "Indeed", "postulaciones": 130, "respuestas": 42, "eficiencia": "32.3%" },
+      { "aplicacion": "OCC Mundial", "postulaciones": 90, "respuestas": 25, "eficiencia": "27.8%" },
+      { "aplicacion": "CompuTrabajo", "postulaciones": 50, "respuestas": 14, "eficiencia": "28.0%" },
+      { "aplicacion": "Glassdoor", "postulaciones": 25, "respuestas": 6, "eficiencia": "24.0%" },
+      { "aplicacion": "Bolsa de trabajo UPIITA", "postulaciones": 12, "respuestas": 2, "eficiencia": "16.7%" },
+      { "aplicacion": "Otro", "postulaciones": 5, "respuestas": 0, "eficiencia": "0.0%" }
+    ],
+    "por_cv": [
+      { "cv": "CV_v3", "postulaciones": 170, "respuestas": 55, "eficiencia": "32.4%" },
+      { "cv": "CV_v2", "postulaciones": 95, "respuestas": 27, "eficiencia": "28.4%" },
+      { "cv": "CV_v1", "postulaciones": 47, "respuestas": 7, "eficiencia": "14.9%" }
+    ],
+    "por_puesto": [
+      { "categoria": "Desarrollador", "postulaciones": 140, "respuestas": 48, "eficiencia": "34.3%" },
+      { "categoria": "Analista de Datos", "postulaciones": 80, "respuestas": 22, "eficiencia": "27.5%" },
+      { "categoria": "IA", "postulaciones": 55, "respuestas": 12, "eficiencia": "21.8%" },
+      { "categoria": "Manager", "postulaciones": 22, "respuestas": 4, "eficiencia": "18.2%" },
+      { "categoria": "Ing. Bionico", "postulaciones": 15, "respuestas": 3, "eficiencia": "20.0%" }
+    ],
+    "por_salario": [
+      { "rango": "< $10,000", "postulaciones": 20, "respuestas": 3, "eficiencia": "15.0%" },
+      { "rango": "$10,000 - $15,000", "postulaciones": 90, "respuestas": 22, "eficiencia": "24.4%" },
+      { "rango": "$15,000 - $20,000", "postulaciones": 130, "respuestas": 45, "eficiencia": "34.6%" },
+      { "rango": "$20,000+", "postulaciones": 72, "respuestas": 19, "eficiencia": "26.4%" }
+    ]
+  },
+  "analisis": {
+    "salario_por_puesto": [
+      { "categoria": "Desarrollador", "promedio": 17500, "maximo": 25000, "minimo": 10000 },
+      { "categoria": "Analista de Datos", "promedio": 20000, "maximo": 28000, "minimo": 14000 },
+      { "categoria": "IA", "promedio": 19500, "maximo": 26000, "minimo": 13000 },
+      { "categoria": "Manager", "promedio": 30000, "maximo": 40000, "minimo": 22000 },
+      { "categoria": "Ing. Bionico", "promedio": 16000, "maximo": 22000, "minimo": 10000 }
+    ],
+    "salario_por_cv": [
+      { "cv": "CV_v3", "promedio": 18200, "maximo": 28000, "minimo": 10000 },
+      { "cv": "CV_v2", "promedio": 19500, "maximo": 30000, "minimo": 12000 },
+      { "cv": "CV_v1", "promedio": 15000, "maximo": 22000, "minimo": 10000 }
+    ],
+    "empresas_repetidas": [
+      { "empresa": "TechCorp MX", "veces_postulado": 3, "aplicaciones_usadas": ["Indeed", "OCC Mundial"], "estados": ["Retirado", "Retirado", "Entrevistado"], "detalle": [
+        { "puesto": "Dev Frontend", "cv": "CV_v1", "empresa": "TechCorp MX", "aplicacion": "Indeed", "estado": "Retirado", "fecha": "5 de octubre de 2025" },
+        { "puesto": "Dev Frontend", "cv": "CV_v2", "empresa": "TechCorp MX", "aplicacion": "Indeed", "estado": "Retirado", "fecha": "3 de enero de 2026" },
+        { "puesto": "Desarrollador Backend Jr", "cv": "CV_v3", "empresa": "TechCorp MX", "aplicacion": "OCC Mundial", "estado": "Entrevistado", "fecha": "18 de febrero de 2026" }
+      ]},
+      { "empresa": "Softtek", "veces_postulado": 2, "aplicaciones_usadas": ["CompuTrabajo"], "estados": ["Retirado", "Postulado"], "detalle": [
+        { "puesto": "Dev Jr", "cv": "CV_v2", "empresa": "Softtek", "aplicacion": "CompuTrabajo", "estado": "Retirado", "fecha": "12 de octubre de 2025" },
+        { "puesto": "Backend Developer", "cv": "CV_v3", "empresa": "Softtek", "aplicacion": "CompuTrabajo", "estado": "Postulado", "fecha": "10 de enero de 2026" }
+      ]}
+    ],
+    "modalidades": { "Presencial": 55, "Hibrido": 112, "Remoto": 145 }
+  }
+}
